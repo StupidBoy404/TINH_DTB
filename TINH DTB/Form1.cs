@@ -151,6 +151,19 @@ namespace TINH_DTB
         {
             this.Close();
         }
+
+        private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Do you want to close?", "Exit",
+               MessageBoxButtons.YesNo,
+               MessageBoxIcon.Question,
+               MessageBoxDefaultButton.Button1);
+
+            if (dialogResult == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 
     class monHoc
