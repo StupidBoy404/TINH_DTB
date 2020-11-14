@@ -1,0 +1,10 @@
+E:\DOWNLOAD\TINH DTB\TINH DTB\bin\Debug\TINH DTB.exe.config
+E:\DOWNLOAD\TINH DTB\TINH DTB\bin\Debug\TINH DTB.exe
+E:\DOWNLOAD\TINH DTB\TINH DTB\bin\Debug\TINH DTB.pdb
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH_DTB.frmMain.resources
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH_DTB.Properties.Resources.resources
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH DTB.csproj.GenerateResource.cache
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH DTB.csproj.CoreCompileInputs.cache
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH DTB.exe
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH DTB.pdb
+E:\DOWNLOAD\TINH DTB\TINH DTB\obj\Debug\TINH DTB.csprojAssemblyReference.cache
